@@ -1,0 +1,7 @@
+@import 'leaflet';
+
+#page-60f084e2be875f2301094687
+  .sqs-gallery-container.sqs-gallery-block-grid
+  img {
+  cursor: pointer;
+}
