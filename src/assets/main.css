@@ -1,4 +1,4 @@
-@import 'leaflet';
+@import url('https://unpkg.com/leaflet@1.7.1/dist/leaflet.css');
 
 #page-60f084e2be875f2301094687
   .sqs-gallery-container.sqs-gallery-block-grid
